@@ -5,7 +5,7 @@
 主要靠DeepSeek老师，改了n多遍终于成功了（主要是这个网页有点怪）  
 ## 使用方法
 下载后先修改一下代码中【result = solver.run("学号", "密码")】部分的内容，改为自己信息  
-然后直接运行这个py文件就行，同时浏览器里访问http://localhost:5000就能看到  
+然后直接运行这个py文件就行，同时浏览器里访问 http://localhost:5000 就能看到  
 ## 其他
 应该其他的投票页面也都适用，只要修改一下链接里的ID号就OK  
 https://onewechat.bnu.edu.cn/site/vote/index?id=【？】  
